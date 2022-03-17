@@ -49,8 +49,8 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'https://github.com/MASTERMAN200'
 kasihcaption = `Nih kak`
-namakontak1 = 'Pilar Owner Bot'
-namakontak2 = 'Caca Admin Bot'
+namakontak1 = 'Owner GarXytBotz'
+namakontak2 = 'Owner Black BotZ Official'
 
 //kasihcaption = `Nih Kak`
 
@@ -60,7 +60,7 @@ global.author = 'GarXytBotz' // ganti aja
 
 //yyy
 bc = 'GarXytBotz' //ZeusBotz Broadcast
-footer = '\n© 1GarXytBotz'
+footer = '\n© GarXytBotz'
 namabot = 'GarXytBotz'
 namalu = 'GarXytBotz'
 watermark = 'ZeusBotz' //ganti aja
